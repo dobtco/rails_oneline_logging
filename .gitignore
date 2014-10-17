@@ -1,0 +1,7 @@
+.bundle/
+log/*.log
+pkg/
+tmp/*
+coverage/*
+*.gem
+Gemfile.lock
